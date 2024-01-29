@@ -9,7 +9,7 @@ Displaying the names and pictures of a group of Pokemon on two screens, the firs
 
 
 ## APK Download
-[Click here]((https://drive.google.com/file/d/18eSsSlpjTCNI8iTVk04_ycN4cdryvmPK/view?usp=sharing))
+[Click here](https://drive.google.com/file/d/18eSsSlpjTCNI8iTVk04_ycN4cdryvmPK/view?usp=sharing)
 
 ## In-App architecture
 <p>
